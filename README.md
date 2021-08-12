@@ -12,7 +12,7 @@ Joined ADAPT centre 2016-now, worked on some survey of ontology based MT, then M
 
 # News: cushLEPOR submitted to WMT2021 Metrics Task
 
-Welcome to subscripe my Google Scholar webpage for future news on publications
+Welcome to subscribe my Google Scholar webpage for future news on publications
 https://scholar.google.com/citations?user=_vf3E2QAAAAJ&hl=en 
 
 Here my ResearchGate network:
