@@ -12,6 +12,11 @@ Joined ADAPT centre 2016-now, worked on some survey of ontology based MT, then M
 
 # News: cushLEPOR submitted to WMT2021 Metrics Task
 
+cushLEPOR in collabration with Logrus Global, optimised hLEPOR metric using LaBSE and MQM.
+
+
+# Links to other webpages regarding publications, presentations, and projects
+
 Welcome to subscribe my Google Scholar webpage for future news on publications
 https://scholar.google.com/citations?user=_vf3E2QAAAAJ&hl=en 
 
